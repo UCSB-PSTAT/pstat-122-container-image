@@ -1,9 +1,2 @@
-# Container image source for <course>
-Info here about where to find and run this image.
-
-# Template instructions (**DELETE THIS SECTION**)
-
-* Uncomment and add necessary libraries to Containerfile
-* mv Jenkinsfile.template to Jenkinsfile
-* Update image variable and add tests to Jenkinsfile
-
+# Container image source for PSTAT-122
+You can obtain the latest verison of this image by running `podman pull ucsb/pstat-122:latest`. 
